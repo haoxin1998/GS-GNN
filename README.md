@@ -1,6 +1,6 @@
 # GS-GNN
 Download link:
-https://pan.baidu.com/s/1OdOEGGrAbJv7jYxay1fn5A
+https://pan.baidu.com/s/1c1LivsVhRNsNeSQ3jIJIHA
 Password:
 2021
 
