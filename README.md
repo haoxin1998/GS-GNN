@@ -1,7 +1,8 @@
 # GS-GNN
 Download link:
-https://pan.baidu.com/s/1Cj9qQUG77ooUZ4XHnfNdZQ  
-Password: mtt2
+https://pan.baidu.com/s/1e-APHtJHnNVNSyxnSpHvQQ
+Password: 9snc
+
 
 "bash demo.sh" can carrie out link signed prediction experiments.
 My more common email address is 1132462715@qq.com. If you have any questions, you can contact me.
